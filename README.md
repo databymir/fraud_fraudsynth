@@ -1,6 +1,6 @@
 # Fraud Detection Using Overly Synthesized Data: A Cautionary Tale
 **This project performs exploratory data analysis and trains a machine learning model to detect fraud.**
-* Highlighted my approach to exploratory data analysis using statistical analysis, data visualization, and feature engineering to search for patterns and insights.
+* Highlighted my approach to exploratory data analysis using statistical analysis, data visualization, and feature engineering to search for patterns and insights
 * Documented data quality issues and reasoning for the belief that the dataset was overly synthesized
 * Trained a logistic regression classifier to explore the limitations of building a viable machine learning model with non-representative data
 * Explained why this project is a cautionary tale demonstrating the necessity of representative data that conveys the complexity and noisiness of real-world data
