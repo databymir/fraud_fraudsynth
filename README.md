@@ -37,11 +37,9 @@
 The data is a synthetic dataset intended for "the development and evaluation of credit fraud detection models" (Ismail, 2024).
 
 ### Data Acquisition
-The dataset was acquired by downloading the .csv file from https://www.kaggle.com/datasets/youssefismail20/fraudsynth-credit-fraud-detection-dataset/data.
+The dataset was acquired by downloading the .csv file from https://www.kaggle.com/datasets/youssefismail20/fraudsynth-credit-fraud-detection-dataset/data. The file is not included in this repository due to file size limitations but can be downloaded directly from Kaggle using that link.
 
 ## Code
-├── fraud_detection_dataset.csv
-
 ├── fraudsynth.ipynb
 
 ├── LICENSE
