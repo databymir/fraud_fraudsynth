@@ -5,6 +5,9 @@
 * Trained a logistic regression classifier to explore the limitations of building a viable machine learning model with non-representative data
 * Explained why this project is a cautionary tale demonstrating the necessity of representative data that conveys the complexity and noisiness of real-world data
 
+Note:   An HTML rendering of the project notebook can be viewed at: https://nbviewer.org/github/databymir/fraud_fraudsynth/blob/main/fraudsynth.ipynb 
+        and a LinkedIn article can be viewed at https://www.linkedin.com/pulse/fraud-detection-using-synthesized-data-cautionary-oliverius-cpa-1ehcc/
+
 ## Table of Contents
 * [Authors](#authors)
 * [Installation](#installation)
